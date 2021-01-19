@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAEA,UACE,aAAc,CACd,eAAiB","file":"main.47cbd4f6.chunk.css","sourcesContent":["// styles go here\r\n\r\n.selected {\r\n  color: darkred;\r\n  font-weight: bold;\r\n}\r\n"]}
